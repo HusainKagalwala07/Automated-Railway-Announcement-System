@@ -12,7 +12,6 @@ def textToSpeech(text,filename):
     myobj.save(filename)
 
 
-
 #It will return pydub audio segments
 
 def mergeAudios(audios):
