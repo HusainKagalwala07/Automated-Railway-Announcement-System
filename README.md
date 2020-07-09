@@ -1,4 +1,8 @@
 # Automated-Railway-Announcement-System
-This is a python based application used to automate the day to day task of announcement into a complete automated process by making the python script read the .csv file and generating the required result. 
 
 ![](https://raw.githubusercontent.com/HusainKagalwala07/Automated-Railway-Announcement-System/master/railway.png)
+
+
+Description: Create automated announcement based on the data that can be read from the CSV files and generate audio files based on the train information, station names and timings that are automated using system available voices.
+
+Technology and libraries used: Python, Pandas, pydub (AudioSegment), gTTS for text to speech
